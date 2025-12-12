@@ -44,7 +44,7 @@ Tested on Lenovo IdeaPad 110 (4GB RAM, Intel CPU):
 
 ## 🎥 Demo
 
-![Sentry Vision Demo](demo.gif) *(Placeholder - Add your demo GIF here)*
+Soon
 
 ## 🛠 Installation
 
@@ -183,12 +183,7 @@ This project was developed in three phases:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- [Ultralytics](https://ultralytics.com/) for YOLOv8
-- [OpenCV](https://opencv.org/) for computer vision
-- [Streamlit](https://streamlit.io/) for the dashboard
-
 ---
+
 
 **Built for efficient, reliable surveillance on a budget.** 🚀
