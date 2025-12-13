@@ -44,7 +44,7 @@ Tested on Lenovo IdeaPad 110 (4GB RAM, Intel CPU):
 
 ## 🎥 Demo
 
-![Sentry Vision Demo](demo.gif) *(Placeholder - Add your demo GIF here)*
+Soon
 
 ## 🛠 Installation
 
@@ -190,5 +190,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Streamlit](https://streamlit.io/) for the dashboard
 
 ---
+
 
 **Built for efficient, reliable surveillance on a budget.** 🚀
