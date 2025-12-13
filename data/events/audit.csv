@@ -1,0 +1,2 @@
+timestamp,class,confidence,bbox_coords,tracked_id,crop_path
+2025-12-12 23-12-12,person,0.9050061702728271,"2,0,638,478",1,data\events\2025-12-12_23-12-12_person_1.jpg

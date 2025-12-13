@@ -1,0 +1,22 @@
+2025-12-12 12:19:00,868 - __main__ - INFO - Sentry Vision MVP iniciado.
+2025-12-12 12:22:09,022 - detector - INFO - Modelo YOLO cargado: yolov8n.pt
+2025-12-12 12:22:09,191 - detector - INFO - Detector de códigos QR inicializado.
+2025-12-12 13:00:14,506 - __main__ - INFO - Finalizando el programa.
+2025-12-12 23:02:45,272 - __main__ - INFO - Sentry Vision MVP started.
+2025-12-12 23:02:48,299 - detector - INFO - YOLO model loaded: yolov8n.pt
+2025-12-12 23:02:48,325 - detector - INFO - QR code detector initialized.
+2025-12-12 23:03:03,531 - __main__ - WARNING - High RAM usage: 91.3% (threshold: 85%)
+2025-12-12 23:03:14,632 - __main__ - WARNING - High RAM usage: 91.8% (threshold: 85%)
+2025-12-12 23:03:26,190 - __main__ - WARNING - High RAM usage: 92.4% (threshold: 85%)
+2025-12-12 23:03:37,420 - __main__ - WARNING - High RAM usage: 93.8% (threshold: 85%)
+2025-12-12 23:03:48,979 - __main__ - WARNING - High RAM usage: 93.7% (threshold: 85%)
+2025-12-12 23:04:00,920 - __main__ - WARNING - High RAM usage: 92.9% (threshold: 85%)
+2025-12-12 23:04:12,437 - __main__ - WARNING - High RAM usage: 93.6% (threshold: 85%)
+2025-12-12 23:04:23,837 - __main__ - WARNING - High RAM usage: 93.4% (threshold: 85%)
+2025-12-12 23:04:33,996 - __main__ - WARNING - High RAM usage: 92.1% (threshold: 85%)
+2025-12-12 23:04:44,889 - __main__ - WARNING - High RAM usage: 91.8% (threshold: 85%)
+2025-12-12 23:07:01,612 - __main__ - INFO - Program ending.
+2025-12-12 23:09:05,213 - __main__ - INFO - Sentry Vision MVP started.
+2025-12-12 23:09:06,166 - detector - INFO - YOLO model loaded: yolov8n.pt
+2025-12-12 23:09:06,166 - detector - INFO - QR code detector initialized.
+2025-12-12 23:16:44,961 - __main__ - INFO - Program ending.
