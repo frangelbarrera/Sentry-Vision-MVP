@@ -24,16 +24,17 @@ A lightweight, real-time surveillance system designed for resource-constrained h
 
 ## 📊 Performance Metrics
 
-Tested on Lenovo IdeaPad 110 (4GB RAM, Intel CPU):
-
 | Metric | PyTorch Model | ONNX Model | Notes |
 |--------|---------------|------------|-------|
-| **FPS** | 12-15 | 15-20 | Smooth real-time performance |
-| **RAM Usage** | 600-800 MB | 500-700 MB | Peak during model inference |
-| **Latency** | < 100ms | < 80ms | Per frame processing time |
-| **Startup Time** | 5-10 seconds | 3-8 seconds | Includes model loading |
-| **Detection Accuracy** | 85-95% | 85-95% | For target classes (people, phones, laptops) |
-| **CPU Load** | 20-40% | 15-35% | On quad-core systems |
+| **FPS** | 10-15 | 15-20 | Real-time performance |
+| **RAM Usage** | 500-800 MB | 400-700 MB | Peak during inference |
+| **Latency** | < 100ms | < 80ms | Per frame |
+| **Startup Time** | 5-10 seconds | 3-8 seconds | Model loading |
+| **Accuracy** | 85-95% | 85-95% | Target classes |
+| **CPU Load** | 20-40% | 15-35% | Quad-core systems |
+
+**Minimum Requirements:** Python 3.10+, 4GB RAM, CPU with AVX support. No GPU required.
+
 
 **Why It Excels for Security Cameras:**
 - **Efficiency**: Runs 24/7 on low-power devices without overheating.
@@ -193,3 +194,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 **Built for efficient, reliable surveillance on a budget.** 🚀
+
+
+## 👤 Author
+[Frangel Barrera](https://github.com/frangelbarrera)
