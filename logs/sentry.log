@@ -1,4 +1,0 @@
-2025-12-12 12:19:00,868 - __main__ - INFO - Sentry Vision MVP iniciado.
-2025-12-12 12:22:09,022 - detector - INFO - Modelo YOLO cargado: yolov8n.pt
-2025-12-12 12:22:09,191 - detector - INFO - Detector de códigos QR inicializado.
-2025-12-12 13:00:14,506 - __main__ - INFO - Finalizando el programa.
